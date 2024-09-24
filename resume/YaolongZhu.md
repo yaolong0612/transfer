@@ -18,6 +18,7 @@
 - **Persistence and Databases**:  Experienced in working with relational databases such as MySQL and MSSQL, as well as NoSql such as Redis. Proficient in ORM frameworks (JPA/Hibernate and MyBatis), and data modeling.
 - **Messaging Systems**: Skilled in event-driven architectures, utilising message queues such as Apache Kafka to build decoupled, fault-tolerant systems.
 - **API Design**: Proficient in building and maintaining RESTful/SOAP and GraphQL APIs for querying and interacting with backend systems.
+- **Containerisation and Orchestration**: Experienced in containerisation using Docker and managing containerised applications using Kubernetes for scalability and deployment automation.
 - **Testing and Development Practices**: Proficient in Test-Driven Development (TDD) and experienced with testing frameworks such as JUnit, Mockito, Cucumber and Spock for unit and integration testing.
 - **Build Tools and CI/CD**: Experienced in Gradle and Maven for project build and dependency management, and familiar with CI/CD practices using Jenkins and GitHub for version control and automated deployments.
 - **Cloud and DevOps**: Proficient in AWS and Azurecloud service. Experienced with DevOps tools and methodologies, including CI/CD pipelines, logging, monitoring, and working in Agile environments.
