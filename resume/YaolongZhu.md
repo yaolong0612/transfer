@@ -27,9 +27,10 @@
 ## Employment History
 
 <div style="font-size: 1.5em;">
-  <strong>Sportsbet - Application Architect</strong>
+  <strong>Sportsbet - Senior Software Engineer</strong>
   <span style="font-size: 0.7em; float:right;">September 2023 - Present</span>
 </div>
+
 
 **NRL && AFL Model**
 
