@@ -54,33 +54,32 @@ Accomplished Senior Software Engineer and Architect with extensive experience de
 
 - Designed, implemented, and maintained Midea's International Channel Collaboration System, ensuring high availability and scalability.
 - Utilised microservices architecture to decompose the existing monolithic application into smaller, manageable services, improving system modularity and maintainability.
-- Adopted DevOps practices and tools such as Git, JIRA, Jenkins, Sonar, and logging & monitoring systems to streamline development, deployment, and continuous integration processes.
-- Improved the core API response time from 1 second to 30 milliseconds by introducing Redis caching, drastically enhancing system performance.
-- Implemented Kafka message queues to decouple system dependencies and improve fault tolerance, ensuring the system remains robust during peak loads or failures.
-- Conducted regular code reviews and implemented quality assurance measures, maintaining code integrity and improving overall software quality.
+- Streamlined development and deployment processes by adopting DevOps practices and tools such as Git, JIRA, Jenkins, and Sonar.
+- Enhanced core API performance, reducing response time from 1 second to 30 milliseconds through the introduction of Redis caching.
+- Increased system robustness and fault tolerance by implementing Kafka message queues to decouple dependencies during peak loads or failures.
+- Conducted regular code reviews and implemented quality assurance measures to maintain code integrity and improve software quality.
 
 <div style="font-size: 1.5em;">
   <strong>Hawkeye Data - Software Engineer</strong>
   <span style="font-size: 0.7em; float:right;">December 2016 - December 2017</span>
 </div>
 
-- Played a key role in setting up Hawkeye Data Engine (HDE) from scratch, contributing to both technical direction and foundational system design.
-- Developed and deployed project management, report management, and task management services, leveraging microservices architecture and the Spring Cloud ecosystem.
-- Collaborated closely with the product manager to define and prioritize key features for HDE, ensuring alignment with business needs.
-- Created a Spark module to address HDE's big data processing requirements, optimising data handling and analytics capabilities.
-- Worked with cross-functional teams to design, develop, and deploy software modules, significantly improving performance and overall system efficiency.
-- Implemented best practices in software development, including conducting code reviews, thorough testing, and comprehensive documentation to maintain high standards of code quality and team collaboration.
+- Contributed to the foundational system design of Hawkeye Data Engine (HDE) and played a pivotal role in its development.
+- Delivered project, report, and task management services using microservices architecture and Spring Cloud ecosystem.
+- Built a Spark module to address HDE's big data processing needs, optimizing data analytics capabilities.
+- Improved modular software components and enhanced system efficiency by collaborating with cross-functional teams.
+- Maintained high standards of quality through best practices in code reviews, comprehensive testing, and clear documentation.
 
 <div style="font-size: 1.5em;">
   <strong>HSBC - Software Engineer</strong>
   <span style="font-size: 0.7em; float:right;">March 2015 - December 2016</span>
 </div>
 
-- Focused on enhancing and maintaining the RAVEN (HSBC Counterparty credit risk core system) system, ensuring its continued reliability and functionality.
-- Refactored RAVEN system code to improve readability and maintainability, leveraging Sonar hints to identify and resolve code quality issues.
-- Collaborated with third-party suppliers to upgrade the platform and improve the price calculation module, while ensuring seamless updates to system interfaces.
-- Enhanced RAVEN's support for multi-exchange rate calculations, improving the system's ability to handle complex pricing scenarios.
-- Conducted unit tests, integration tests, and user acceptance tests to ensure the robustness and accuracy of the system after enhancements.
+- Enhanced and maintained the RAVEN (HSBC Counterparty Credit Risk Core System), ensuring its reliability and functionality.
+- Improved code maintainability and readability through refactoring, leveraging Sonar hints to resolve code quality issues.
+- Collaborated with third-party suppliers to upgrade the platform, enhance the price calculation module, and ensure seamless updates to system interfaces.
+- Enhanced support for multi-exchange rate calculations, enabling the system to handle complex pricing scenarios effectively.
+- Ensured system robustness and accuracy through thorough unit tests, integration tests, and user acceptance tests.
 
 ## Education
 - **Feb 2013 - Dec 2014**: Master of Applied IT, Monash University
