@@ -32,7 +32,6 @@ Accomplished Senior Software Engineer and Architect with extensive experience de
 + Designed event-driven microservices using Kafka and Spring Boot, incorporating DDD and TDD principles to enhance scalability, reliability, and maintainability.
 + Collaborated with cross-functional teams to troubleshoot and resolve production issues, ensuring minimal downtime and 99.99% system uptime during peak events.
 + Actively participated in code reviews to maintain coding standards and guide junior and mid-level engineers.
-+ Provided technical leadership in migrating core systems from Spring Boot 2 to Spring Boot 3, mentoring team members and ensuring smooth adoption of Java 17.
 
 <div style="font-size: 1.5em;">
   <strong>Procter & Gamble - Application Architect</strong>
