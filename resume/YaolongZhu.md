@@ -86,5 +86,7 @@ Accomplished Senior Software Engineer and Architect with extensive experience de
 - **Feb 2013 - Dec 2014**: Master of Applied IT, Monash University
 - **Sep 2008 - Jun 2012**: Bachelor of E-commerce, Guangdong University of Finance & Economics
 
-## Certificate
-- TOGAF 9
+## Others
+- Start-up experience
+- Fluent English, Mandarin, Cantonese
+- TOGAF 9 certified
